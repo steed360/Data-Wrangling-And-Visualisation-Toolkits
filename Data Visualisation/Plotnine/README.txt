@@ -1,0 +1,1 @@
+Data directory is taken entirely from https://github.com/adamribaudo/storytelling-with-data-ggplot
